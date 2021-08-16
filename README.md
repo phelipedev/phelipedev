@@ -1,9 +1,14 @@
-### Hi there 👋
+### Hey you 👋
+Phelipe dos Reis
+23 anos
+
+Desenvolvedor Frontend aprendendo Backend atualmente estudando JAVA e finalizando meu curso de **Análise e Desenvolvimento de Sistemas**.
+
+#### "There Is a Light That Never Goes Out" 
+>The Smiths
 
 <!--
-**phelipedev/phelipedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
